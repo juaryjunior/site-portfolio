@@ -8,6 +8,11 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional
 * GIT avançadp
 * Usando github de forma profissional.
 
+1. Começando com GIT
+2. Aprendendo sobre branches
+3. GIT avançadp
+4. Usando github de forma profissional.
+
 
 ### Rede social:
 [**Linkedin**](https://www.linkedin.com/in/juary-jose-de-o-junior-86b637104/)
