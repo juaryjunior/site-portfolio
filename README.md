@@ -6,4 +6,4 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional
 _Entendo o que é **git**, Aprendendo sobre **repositórios**, Trabalhando com **branches**._
 
 ### Rede social:
-[Linkdin](https://www.linkedin.com/in/juary-jose-de-o-junior-86b637104/)
+[**Linkdin**](https://www.linkedin.com/in/juary-jose-de-o-junior-86b637104/)
