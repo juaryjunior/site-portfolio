@@ -3,7 +3,11 @@
 Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional._
 
 ## Módulos:
-_Entendo o que é **git**, Aprendendo sobre **repositórios**, Trabalhando com **branches**._
+* Começando com GIT
+* Aprendendo sobre branches
+* GIT avançadp
+* Usando github de forma profissional.
+
 
 ### Rede social:
-[**Linkdin**](https://www.linkedin.com/in/juary-jose-de-o-junior-86b637104/)
+[**Linkedin**](https://www.linkedin.com/in/juary-jose-de-o-junior-86b637104/)
