@@ -18,3 +18,8 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional
 
 ### Rede social:
 [**Linkedin**](https://www.linkedin.com/in/juary-jose-de-o-junior-86b637104/)
+
+
+>Este é um blockquote, usado para destacar alguma area.
+>
+>Segunda area destacada
